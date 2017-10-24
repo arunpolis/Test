@@ -1,0 +1,12 @@
+ Volume in drive C is Default
+ Volume Serial Number is 62E3-4397
+
+ Directory of C:\ARUN\Sample proj\Java
+
+10/24/2017  04:50 PM    <DIR>          .
+10/24/2017  04:50 PM    <DIR>          ..
+10/24/2017  03:25 PM               664 Test.class
+10/24/2017  03:25 PM               123 Test.java
+10/24/2017  04:50 PM                 0 test.txt
+               3 File(s)            787 bytes
+               2 Dir(s)  12,558,262,272 bytes free
